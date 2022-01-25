@@ -1,4 +1,4 @@
-Good afternoon, unfortunately I have to send such a version of the project. 
+Unfortunately I have to send such a version of the project. 
 
 I was unable to dockerize due to django written in version 4 (docker supports 3.2)
 
